@@ -5,16 +5,6 @@
 
 ---
 
-## 👤 Autor
-
-**Rodrigo Gonçalves Salgado**  
-Analista de BI & Dados | Em transição para Engenharia de Dados & IA
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--salgado--bi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rodrigo-salgado-bi)
-[![GitHub](https://img.shields.io/badge/GitHub-r9drig--tech-181717?style=flat&logo=github)](https://github.com/r9drig-tech)
-
----
-
 ## 📁 Estrutura do Repositório
 
 ```
@@ -115,4 +105,12 @@ Evite linguagem corporativa e clichês de vendas.
 
 ---
 
+## 👤 Autor
+
+**Rodrigo Gonçalves Salgado**  
+Analista de BI & Dados | Em transição para Engenharia de Dados & IA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--salgado--bi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rodrigo-salgado-bi)
+
+---
 *Desenvolvido como parte da trilha de IA Generativa — DIO × Heineken*
